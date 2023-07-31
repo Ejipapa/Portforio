@@ -142,7 +142,7 @@
         left: 100px;
         font-size: 2rem;
     }
-    #works .layout2 .image video{
+    #works .layout2 .image img{
         width: 40vw;
         position: absolute;
         left: 28px;
@@ -163,6 +163,7 @@
     #works .layout2 .use{
         position: absolute;
         top: 50%;
+        left: 7%;
         font-size: 1.5rem;
     }
     #works .layout2 .detail p{
@@ -252,7 +253,7 @@
         font-size: 2rem;
         left: 100px;
     }
-    #works .layout4 .image video{
+    #works .layout4 .image img{
         position: absolute;
         height: 70vh;
         width: 45vw;
@@ -271,6 +272,7 @@
     #works .layout4 .use{
         position: absolute;
         top: 50%;
+        left: 7%;
         font-size: 1.5rem;
     }
     #works .layout4 .detail p{
